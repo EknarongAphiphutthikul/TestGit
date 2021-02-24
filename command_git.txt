@@ -1,2 +1,4 @@
 # same branch name local and remote
 git pull origin <branch-name> --allow-unrelated-histories
+
+# สร้าง file คนละ file สามารถ merge branch ได้เลย  กรณี pull master ก่อน แล้วค่อย merge branch to master
