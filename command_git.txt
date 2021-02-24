@@ -1,0 +1,2 @@
+# same branch name local and remote
+git pull origin <branch-name> --allow-unrelated-histories
