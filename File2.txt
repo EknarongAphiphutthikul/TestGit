@@ -3,3 +3,6 @@ user2 : write1
 
 
 user2 : write1
+
+
+user1 user1
